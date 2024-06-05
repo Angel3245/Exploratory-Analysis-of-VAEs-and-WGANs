@@ -52,7 +52,7 @@ The main libraries used in this project include:
 - Matplotlib
 
 ## Model Architecture
-The RNN model is designed with the following architecture:
+The model is designed with the following architecture:
 
 ### Variational Autoencoder (VAE)
 - Encoder: Encodes the input image into a latent space.
